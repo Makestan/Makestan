@@ -20,10 +20,10 @@
 ### 💫 About Me
 I am a passionate developer with a strong focus on **Java** backend logic and modern **Front-end technologies**. I love building clean, scalable applications and exploring the latest trends in the tech world.
 
-- 🔭 I’m currently working on enhancing my **Java Spring Boot** skills.
-- 🌱 I’m currently learning **Advanced React** and **Microservices**.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 💬 Ask me about **Java, HTML/CSS, or JavaScript**.
+ 🔭 I’m currently working on enhancing my **Java Spring Boot** skills.
+ 🌱 I’m currently learning **Advanced React** and **Microservices**.
+ 👯 I’m looking to collaborate on Open Source projects.
+ 💬 Ask me about **Java, HTML/CSS, or JavaScript**.
 
 ---
 
