@@ -46,19 +46,7 @@ I am a passionate developer with a strong focus on **Java** backend logic and mo
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Makestan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Makena's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makestan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Makestan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <img src="https://raw.githubusercontent.com/MaksymZhereva/MaksymZhereva/master/assets/line-neon.gif" width="100%">
 
